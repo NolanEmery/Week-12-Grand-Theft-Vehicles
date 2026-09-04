@@ -22,4 +22,5 @@ Fix the walls so they cannot be driven through.
 
 Expand It:
 
+How did you add the auto shop and car customization?
 Inside of garage has car on a rotatable stack. Let the user change the color, tint, rim, tire style, spoiler.
